@@ -10,3 +10,7 @@ https://stackoverflow.com/questions/55441230/unable-to-load-script-make-sure-you
 # does not opens java.io
 
 https://stackoverflow.com/questions/66696339/first-react-native-app-task-appprocessdebugmainmanifest-failed
+
+# @react-native-community/google-signin Develper Error solution (Development Firebase)
+
+@react-native-community/google-signin 
